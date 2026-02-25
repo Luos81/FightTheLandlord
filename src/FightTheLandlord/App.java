@@ -10,7 +10,7 @@ public class App {
          */
 
         //启动游戏
-        new PokerGame();
+        new PokerGame1();
 
 
 
